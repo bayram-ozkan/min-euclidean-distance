@@ -1,3 +1,8 @@
+IBM ile Kodluyoruz: CyberStart
+Python Uygulama 2
+
+
+
 Minimum Öklid Mesafesinin Hesaplanması
 
 ![alt text](https://patika-cohorts-prod.s3-eu-central-1.amazonaws.com/mustafasavar/cohorts/ibm-ile-kodluyoruz-cyberstart-1-grup/tasks/maXBZgBjRhXEhZFEd/JYc7QbC-euclidian.png/TqrEV97H)
